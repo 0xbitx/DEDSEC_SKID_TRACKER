@@ -8,7 +8,7 @@
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_SKID_TRACKER.git
 * cd DEDSEC_SKID_TRACKER
-* pip3 install pystyle
+* pip3 install pystyle pycryptodome
 * python3 dedsec_skid.py
 
 ### TESTED ON FOLLOWING
