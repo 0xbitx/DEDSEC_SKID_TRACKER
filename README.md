@@ -9,7 +9,7 @@
 * git clone https://github.com/0xbitx/DEDSEC_SKID_TRACKER.git
 * cd DEDSEC_SKID_TRACKER
 * pip3 install pystyle pycryptodome
-* python3 dedsec_skid.py
+* ./dedsec_skid
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
